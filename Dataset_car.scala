@@ -1,7 +1,7 @@
 // Databricks notebook source
 // MAGIC %md
 // MAGIC 
-// MAGIC # Dataset_car
+// MAGIC # Car Price Prediction
 // MAGIC 
 // MAGIC Lova Rant.
 // MAGIC 
